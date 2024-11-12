@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Arksho
+Arksh
+Config
 
 Show Contacts
 
 Email
-richard@example.com
+contact@arksho.site
 
-Phone
-+1 (213) 352-2795
+Telegram
+https://t.me/Arksho
 
 Birthday
-June 23, 1982
+Noviembre 9, 2000
 
-Location
-Sacramento, California, USA
+Ubicación
+Buenos Aires, Argentina
 
 # navbar
 
